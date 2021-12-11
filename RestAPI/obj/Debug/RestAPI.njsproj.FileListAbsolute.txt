@@ -1,0 +1,7 @@
+C:\Users\Viola\source\repos\RestAPI\RestAPI\obj\Debug\RestAPI.njsproj.CoreCompileInputs.cache
+C:\Users\Viola\source\repos\RestAPI\RestAPI\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Utente-XB\Documents\pwm\ApiService\RestAPI\obj\Debug\RestAPI.njsproj.CoreCompileInputs.cache
+C:\Users\Utente-XB\Documents\pwm\ApiService\RestAPI\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\viola\Downloads\Unimi_API-main\Unimi_API-main\RestAPI\obj\Debug\RestAPI.njsproj.AssemblyReference.cache
+C:\Users\viola\Downloads\Unimi_API-main\Unimi_API-main\RestAPI\obj\Debug\RestAPI.njsproj.CoreCompileInputs.cache
+C:\Users\viola\Downloads\Unimi_API-main\Unimi_API-main\RestAPI\bin\Microsoft.NodejsTools.WebRole.dll
